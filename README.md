@@ -1,4 +1,4 @@
-# Mining Human CAD Assembly Patterns for AI-Assisted 3D Engineering Workflows
+# Mining Human CAD Joint and Part-Interaction Patterns for AI-Assisted 3D Engineering Workflows
 
 This project studies human CAD assembly and joint patterns using the Fusion 360 Gallery Dataset. The goal is to identify recurring assembly structures, joint behaviors, and complexity profiles that can support future AI-assisted 3D engineering workflows.
 
@@ -17,7 +17,3 @@ This project uses the public Fusion 360 Gallery Dataset, starting with the Assem
 - `notebooks/` for step-by-step exploration and analysis
 - `src/` for reusable code
 - `outputs/` for figures and tables
-- `paper/` for research writing in parallel
-
-## Status
-Project setup and dataset inspection in progress.
